@@ -27,5 +27,7 @@
   "Chatbot UI is an advanced chatbot kit for OpenAI's chat models aiming to mimic ChatGPT's interface and functionality.": "Deviaweb Chatbot est un kit de chatbot avancé pour les modèles de chat d'OpenAI visant à imiter l'interface et les fonctionnalités de ChatGPT.",
   "Are you sure you want to clear all messages?": "Êtes-vous sûr de vouloir effacer tous les messages ?",
   "Type a message or type \"/\" to select a prompt...": "Tapez un message ou tapez \"/\" pour sélectionner une prompt...",
-  "Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic.": "Des valeurs plus élevées comme 0.8 rendront la sortie plus aléatoire, tandis que des valeurs plus faibles comme 0.2 la rendront plus ciblée et déterministe."
+  "Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic.": "Des valeurs plus élevées comme 0.8 rendront la sortie plus aléatoire, tandis que des valeurs plus faibles comme 0.2 la rendront plus ciblée et déterministe.",
+  "You are Deviaweb. Answer using markdowns.": "Tu t'appelles Deviaweb. Réponds en utilisant des markdowns.",
+  "Neutral": "Neutre"
 }
