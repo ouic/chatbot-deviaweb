@@ -355,7 +355,7 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
             Deviaweb IA
           </div>
           <div className="text-center text-lg text-black dark:text-white">
-            <div className="mb-8">Deviaweb Chatbot est un projet open source de clone de ChatGPT de OpenAI propulsé par <a href="https://github.com/mckaywrigley/chatbot-ui"><u>Chatbot UI</u></a>.</div>
+            <div className="mb-8">Deviaweb Chatbot est un clone de ChatGPT de OpenAI propulsé par <a href="https://github.com/mckaywrigley/chatbot-ui"><u>Chatbot UI</u></a>.</div>
             <div className="mb-2 font-bold">
               Important: Deviaweb Chatbot est 100% non-affilié avec OpenAI.
             </div>
