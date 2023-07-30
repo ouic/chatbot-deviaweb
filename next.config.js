@@ -1,3 +1,10 @@
+const path = require('path');
+const dotenv = require('dotenv');
+
+// Load the environment variables from secrets.env
+const secretsEnvPath = path.resolve(__dirname, '../secrets.env');
+dotenv.config({ path: secretsEnvPath });
+
 const { i18n } = require('./next-i18next.config');
 
 /** @type {import('next').NextConfig} */

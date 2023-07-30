@@ -1,0 +1,43 @@
+/home/ouic/code/ouic/chatbot-deviaweb/
+├── Capfile
+├── components/
+├── config/
+├── CONTRIBUTING.md
+├── docker-compose.yml
+├── Dockerfile
+├── .dockerignore
+├── docs/
+├── .env.local
+├── .env.local.example
+├── .eslintrc.json
+├── .git/
+├── .github/
+├── .gitignore
+├── hooks/
+├── k8s/
+├── lib/
+├── license
+├── Makefile
+├── .next/
+├── next.config.js
+├── next-env.d.ts
+├── next-i18next.config.js
+├── node_modules/
+├── package.json
+├── package-lock.json
+├── pages/
+├── postcss.config.js
+├── prettier.config.js
+├── public/
+├── README.md
+├── SECURITY.md
+├── services/
+├── styles/
+├── tailwind.config.js
+├── __tests__/
+├── tsconfig.json
+├── types/
+├── utils/
+└── vitest.config.ts
+
+17 directories, 23 files
